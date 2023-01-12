@@ -1,2 +1,11 @@
-package core;public class Login {
+package core;
+
+public class Login {
+
+    // password
+
+
+    // login
+
+
 }

@@ -1,2 +1,7 @@
-package core;public class Balance {
+package core;
+
+public class Balance {
+
+
+   // $40000
 }
