@@ -1,1 +1,3 @@
-/Git_Practice_01_11_2023.iml
+*.iml
+out
+.idea
