@@ -3,6 +3,5 @@ package core;
 public class Balance {
 
 
-
-    //$40000
+   // $40000
 }
